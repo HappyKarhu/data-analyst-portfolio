@@ -14,6 +14,18 @@ The project demonstrates a basic data-analysis workflow:
 
 **Import → Inspect → Validate → Analyse → Visualise → Export → Explain**
 
+Rovaniemi Airport AWOS Data Analysis
+
+A practical data cleaning and visualisation project using weather observation data from Rovaniemi Airport.
+
+The original dataset is in Finnish, including the column names and data values. The analysis and documentation are written in English.
+
+The project focuses on identifying and correcting missing, corrupted and incorrectly imported values before analysing snow depth over time.
+
+The project demonstrates a data-analysis workflow including:
+
+Import → Inspect → Clean → Validate → Visualise → Explain
+
 More projects will be added to this repository as I continue developing my data analysis skills.
 
 ## Skills & Tools
