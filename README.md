@@ -29,6 +29,7 @@ Import → Inspect → Clean → Validate → Visualise → Explain
 ### Everyday Data Polls Analysis
 
 An independent data analysis project exploring responses from three everyday-life polls.
+**https://happykarhu.github.io/everyday-data/**
 
 Using Python, pandas and JupyterLab, I explored the response distributions, calculated vote counts and percentages, and created visualisations with Matplotlib.
 
