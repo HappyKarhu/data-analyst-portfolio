@@ -14,7 +14,7 @@ The project demonstrates a basic data-analysis workflow:
 
 **Import → Inspect → Validate → Analyse → Visualise → Export → Explain**
 
-Rovaniemi Airport AWOS Data Analysis
+### Rovaniemi Airport AWOS Data Analysis
 
 A practical data cleaning and visualisation project using weather observation data from Rovaniemi Airport.
 
@@ -25,6 +25,19 @@ The project focuses on identifying and correcting missing, corrupted and incorre
 The project demonstrates a data-analysis workflow including:
 
 Import → Inspect → Clean → Validate → Visualise → Explain
+
+### Everyday Data Polls Analysis
+
+An independent data analysis project exploring responses from three everyday-life polls.
+
+Using Python, pandas and JupyterLab, I explored the response distributions, calculated vote counts and percentages, and created visualisations with Matplotlib.
+
+The project demonstrates a practical workflow:
+
+Import → Inspect → Analyse → Visualise → Communicate
+
+Tools: Python, pandas, JupyterLab, Matplotlib
+
 
 More projects will be added to this repository as I continue developing my data analysis skills.
 
